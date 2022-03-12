@@ -56,9 +56,9 @@ header {
 
 #calculator button {
   font: inherit;
-  background: #2d6ea3;
+  background: #2da3a3;
   color: white;
-  border: 1px solid #2c71aa;
+  border: 1px solid #2ca6aa;
   padding: 1rem;
   cursor: pointer;
 }
