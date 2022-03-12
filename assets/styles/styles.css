@@ -8,8 +8,6 @@ html {
 
 body {
   margin: 0;
-  background-color: #eaeaea;
-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8' viewBox='0 0 8 8'%3E%3Cg fill='%2392cddb' fill-opacity='0.4'%3E%3Cpath fill-rule='evenodd' d='M0 0h4v4H0V0zm4 4h4v4H4V4z'/%3E%3C/g%3E%3C/svg%3E");
 }
 
 header {
@@ -58,9 +56,9 @@ background-size: cover;
 
 #calculator button {
   font: inherit;
-  background: #023d6d;
+  background: #13548a;
   color: white;
-  border: 1px solid #023d6d;
+  border: 1px solid #1a65a1;
   padding: 1rem;
   cursor: pointer;
 }
